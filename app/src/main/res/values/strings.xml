@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Aplikasi Baca Komik</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="deskripsi">NARUTO SHIPPUDEN</string>
+    <string name="details">Serial ini disutradarai oleh Hayato Date dan diproduksi oleh Studio Pierrot dan TV Tokyo. Bercerita tentang perjuangan seorang bocah laki-laki yatim piatu bernama Naruto Uzumaki yang bercita-cita menjadi seorang Hokage/ pemimpin tertinggi desa. Sejak kecil dia dibenci oleh seluruh penduduk desa tempatnya.</string>
+    <string name="nb">Cerita lebih menarik dan pengembangan karakter yang dibuat sedemikian rupa.</string>
+    <string name="price">Tahun Rilis</string>
+    <string name="Harga">29 September 2009</string>
+    <string-array name="produk">
+        <item>Bleach</item>
+        <item>Inuysha</item>
+        <item>Dragon Ball Z</item>
+        <item>Naruto Shippuden</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.8</item>
+        <item>4.7</item>
+        <item>4.9</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="harga">
+        <item>100.000+ Pembaca</item>
+        <item>99.000+ Pembaca</item>
+        <item>199.000+ Pembaca</item>
+        <item>185.000+ Pembaca</item>
+    </string-array>
+</resources>
